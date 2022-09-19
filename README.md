@@ -1,4 +1,4 @@
-# Guess-Game
+# Dice-Game
 
 # 📕 About this project
 
